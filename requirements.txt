@@ -1,0 +1,5 @@
+ultralytics
+opencv-python
+numpy==1.26.4
+torch
+deep-sort-realtime
