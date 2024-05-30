@@ -29,8 +29,8 @@ Ensure you have the following installed:
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/morsechim/TrafficCounter.git
-    cd TrafficCounter
+    git clone https://github.com/morsechim/TrafficCounterDeepSORT.git
+    cd TrafficCounterDeepSORT
     ```
 
 2. Install the required packages:
