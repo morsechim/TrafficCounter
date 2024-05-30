@@ -1,4 +1,4 @@
-# Traffic Counter System
+# Traffic Counter using DeepSORT System
 
 This Python script utilizes the YOLO (You Only Look Once) object detection model to detect cars in a given video, tracks them, and counts the number of cars passing through designated lines.
 
